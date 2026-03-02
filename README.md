@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
@@ -45,4 +46,16 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/srini-18/LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
