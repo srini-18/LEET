@@ -15,6 +15,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/srini-18/LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/srini-18/LEET/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srini-18/LEET/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/srini-18/LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,8 +60,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/srini-18/LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/srini-18/LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
