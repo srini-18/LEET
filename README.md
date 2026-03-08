@@ -6,6 +6,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/srini-18/LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/srini-18/LEET/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srini-18/LEET/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/srini-18/LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/srini-18/LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
