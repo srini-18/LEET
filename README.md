@@ -4,12 +4,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/srini-18/LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/srini-18/LEET/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
@@ -41,12 +43,14 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
