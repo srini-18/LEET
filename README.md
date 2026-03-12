@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/srini-18/LEET/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/srini-18/LEET/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/srini-18/LEET/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/srini-18/LEET/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/srini-18/LEET/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -85,5 +87,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/srini-18/LEET/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
