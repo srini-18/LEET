@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/srini-18/LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -11,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/srini-18/LEET/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/srini-18/LEET/tree/master/0125-valid-palindrome) |
@@ -67,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 ## Dynamic Programming
