@@ -32,6 +32,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/srini-18/LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/srini-18/LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1486-xor-operation-in-an-array](https://github.com/srini-18/LEET/tree/master/1486-xor-operation-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/srini-18/LEET/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
