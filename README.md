@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/srini-18/LEET/tree/master/0389-find-the-difference) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/srini-18/LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
 ## String
@@ -17,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/srini-18/LEET/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/srini-18/LEET/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [1143-longest-common-subsequence](https://github.com/srini-18/LEET/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/srini-18/LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -28,6 +30,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/srini-18/LEET/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/srini-18/LEET/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/srini-18/LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -57,6 +60,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srini-18/LEET/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/srini-18/LEET/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
