@@ -22,6 +22,7 @@
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/srini-18/LEET/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/srini-18/LEET/tree/master/1143-longest-common-subsequence) |
+| [1332-remove-palindromic-subsequences](https://github.com/srini-18/LEET/tree/master/1332-remove-palindromic-subsequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/srini-18/LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/srini-18/LEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/srini-18/LEET/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/srini-18/LEET/tree/master/0125-valid-palindrome) |
 | [0917-reverse-only-letters](https://github.com/srini-18/LEET/tree/master/0917-reverse-only-letters) |
+| [1332-remove-palindromic-subsequences](https://github.com/srini-18/LEET/tree/master/1332-remove-palindromic-subsequences) |
 ## Array
 |  |
 | ------- |
