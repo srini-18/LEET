@@ -73,12 +73,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/srini-18/LEET/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/srini-18/LEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
+| [0258-add-digits](https://github.com/srini-18/LEET/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/srini-18/LEET/tree/master/1486-xor-operation-in-an-array) |
@@ -102,4 +104,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/srini-18/LEET/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/srini-18/LEET/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
