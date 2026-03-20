@@ -108,4 +108,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/srini-18/LEET/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/srini-18/LEET/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
