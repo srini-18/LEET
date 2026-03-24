@@ -62,6 +62,7 @@
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1980-find-unique-binary-string](https://github.com/srini-18/LEET/tree/master/1980-find-unique-binary-string) |
+| [2906-construct-product-matrix](https://github.com/srini-18/LEET/tree/master/2906-construct-product-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +121,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/srini-18/LEET/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/srini-18/LEET/tree/master/2906-construct-product-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/srini-18/LEET/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
