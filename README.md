@@ -85,6 +85,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/srini-18/LEET/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/srini-18/LEET/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/srini-18/LEET/tree/master/1486-xor-operation-in-an-array) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/srini-18/LEET/tree/master/2906-construct-product-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/srini-18/LEET/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
