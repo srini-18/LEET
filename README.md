@@ -85,6 +85,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/srini-18/LEET/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/srini-18/LEET/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/srini-18/LEET/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/srini-18/LEET/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/srini-18/LEET/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/srini-18/LEET/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/srini-18/LEET/tree/master/0326-power-of-three) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/srini-18/LEET/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
