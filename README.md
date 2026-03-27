@@ -33,6 +33,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/srini-18/LEET/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/srini-18/LEET/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/srini-18/LEET/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srini-18/LEET/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/srini-18/LEET/tree/master/0136-single-number) |
 | [0322-coin-change](https://github.com/srini-18/LEET/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/srini-18/LEET/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srini-18/LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
