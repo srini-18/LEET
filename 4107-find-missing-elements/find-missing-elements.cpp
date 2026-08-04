@@ -4,7 +4,8 @@ public:
         vector<int>result;
 
         sort(nums.begin(),nums.end());
-
+            if(nums.size()<2)return {};
+                
         for(int i=0;i+1<nums.size();i++){
              int currnum=nums[i];
              int nextnum=nums[i+1];
@@ -19,7 +20,6 @@ public:
              
 
         }
-          if(nums.size()<2)return {};
        return result;
     }
 };
